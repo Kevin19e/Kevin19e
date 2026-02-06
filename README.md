@@ -30,7 +30,7 @@
 <br>Canva
 </td>
 <td align="center" width="96">
-<img src="file:///C:/Users/elezi/Downloads/Capcut%20logo%20png.jpg" width="48" height="48" alt="CapCut" />
+<img src="[file:///C:/Users/elezi/Downloads/Capcut%20logo%20png.jpg](https://private-user-images.githubusercontent.com/216080411/546216081-f6aa1830-a357-458b-96dd-0a4d9d7837e8.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAzODUzNTEsIm5iZiI6MTc3MDM4NTA1MSwicGF0aCI6Ii8yMTYwODA0MTEvNTQ2MjE2MDgxLWY2YWExODMwLWEzNTctNDU4Yi05NmRkLTBhNGQ5ZDc4MzdlOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwNlQxMzM3MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iODk0MmFhNTBjOTZlZTAyOGY3NTAxYmIyOWU2OGQ4ZGIwYWY5Yjg3OWU4ZjJkOWYxOWQ0YjcyNjE0NzE5MDg4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4NdHwSevh8FSH9AAo2cDzdjmSZ3pVJbZMyaddsWLDlI)" width="48" height="48" alt="CapCut" />
 <br>CapCut
 </td>
 </tr>
