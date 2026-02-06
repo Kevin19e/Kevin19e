@@ -30,7 +30,7 @@
 <br>Canva
 </td>
 <td align="center" width="96">
-<img src="[https://img.icons8.com/color/48/capcut.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOG34xno1cZcQVQSRoA-61gdjvXSOqG0MTA&s)" width="48" height="48" alt="CapCut" />
+<img src="file:///C:/Users/elezi/Downloads/Capcut%20logo%20png.jpg" width="48" height="48" alt="CapCut" />
 <br>CapCut
 </td>
 </tr>
