@@ -10,18 +10,6 @@
 <br>HTML
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
 <br>Figma
 </td>
@@ -34,7 +22,7 @@
 <br>Illustrator
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48" alt="Canva" />
 <br>Canva
 </td>
 </tr>
@@ -53,7 +41,7 @@
 <br>PostgreSQL
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
 <br>Power BI
 </td>
 <td align="center" width="96">
@@ -80,15 +68,11 @@
 <br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
 <br>Linux
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/notion--v1.png" width="48" height="48" alt="Notion" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="48" height="48" alt="Notion" />
 <br>Notion AI
 </td>
 <td align="center" width="96">
@@ -96,8 +80,12 @@
 <br>Zapier
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/microsoft-365.png" width="48" height="48" alt="Microsoft 365" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" width="48" height="48" alt="Microsoft 365" />
 <br>Microsoft 365
+</td>
+<td align="center" width="96">
+<img src="https://images.ctfassets.net/ooa29xqb8tix/2rHNLeDw19dwbJ9d2HL27B/5e2b9137dc18d761bf5d6e90d7c9ba74/make-symbol.svg" width="48" height="48" alt="Make" />
+<br>Make
 </td>
 </tr>
 </table>
