@@ -1,4 +1,4 @@
-<img src="https://private-user-images.githubusercontent.com/216080411/546200412-d4ab210e-a2a5-49e6-8d9d-f21b4ee382fd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAzODM4NTEsIm5iZiI6MTc3MDM4MzU1MSwicGF0aCI6Ii8yMTYwODA0MTEvNTQ2MjAwNDEyLWQ0YWIyMTBlLWEyYTUtNDllNi04ZDlkLWYyMWI0ZWUzODJmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwNlQxMzEyMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNjgzZTc1Y2Y2Y2EwN2FlYjkxNzcxNmY5OWNkMmIzMDJjZTE2NDdjNjU0M2IzZjcyZTlhYTBmZmYzODZhMzU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xngLA37d1iKqzMiRCnOzhfbEh9GaujwtoIsfFNsZeiE" width="50" height="50" align="center" alt="👋 Hi there! I'm Kevin" title="👋 Hi there! I'm Kevin"/>
+<img src="https://private-user-images.githubusercontent.com/216080411/546200412-d4ab210e-a2a5-49e6-8d9d-f21b4ee382fd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAzODM4NTEsIm5iZiI6MTc3MDM4MzU1MSwicGF0aCI6Ii8yMTYwODA0MTEvNTQ2MjAwNDEyLWQ0YWIyMTBlLWEyYTUtNDllNi04ZDlkLWYyMWI0ZWUzODJmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwNlQxMzEyMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNjgzZTc1Y2Y2Y2EwN2FlYjkxNzcxNmY5OWNkMmIzMDJjZTE2NDdjNjU0M2IzZjcyZTlhYTBmZmYzODZhMzU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xngLA37d1iKqzMiRCnOzhfbEh9GaujwtoIsfFNsZeiE" width="96" height="96" style="border-radius: 50%;" align="center" alt="👋 Hi there! I'm Kevin" title="👋 Hi there! I'm Kevin"/>
 <div align="justify">
 >
 <div align="center">
@@ -22,7 +22,7 @@
 <br>Illustrator
 </td>
 <td align="center" width="96">
-<img src="https://www.canva.com/favicon.ico" width="48" height="48" alt="Canva" style="background: white; padding: 4px; border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/canva-colored.svg" width="48" height="48" alt="Canva" />
 <br>Canva
 </td>
 </tr>
@@ -41,11 +41,11 @@
 <br>PostgreSQL
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="48" height="48" alt="Power BI" />
+<img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
 <br>Power BI
 </td>
 <td align="center" width="96">
-<img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="48" height="48" alt="Tableau" />
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="48" height="48" alt="Tableau" />
 <br>Tableau
 </td>
 <td align="center" width="96">
@@ -80,11 +80,11 @@
 <br>Zapier
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Package/3D/1f4e6.png" width="48" height="48" alt="Microsoft 365" />
+<img src="https://img.icons8.com/fluency/48/microsoft-365.png" width="48" height="48" alt="Microsoft 365" />
 <br>Microsoft 365
 </td>
 <td align="center" width="96">
-<img src="https://www.make.com/en/assets/brand/logo-make.svg" width="48" height="48" alt="Make" />
+<img src="https://cdn.worldvectorlogo.com/logos/make-7.svg" width="48" height="48" alt="Make" />
 <br>Make
 </td>
 </tr>
