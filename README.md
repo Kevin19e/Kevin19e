@@ -21,6 +21,14 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
 <br>Illustrator
 </td>
+<td align="center" width="96">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" height="48" alt="Adobe XD" />
+<br>Adobe XD
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/canva.png" width="48" height="48" alt="Canva" />
+<br>Canva
+</td>
 </tr>
 <!-- Backend & Data -->
 <tr>
@@ -53,7 +61,7 @@
 <br>Azure
 </td>
 </tr>
-<!-- Tools & Platforms -->
+<!-- Tools & Automation -->
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -76,8 +84,39 @@
 <br>Zapier
 </td>
 <td align="center" width="96">
+<img src="https://n8n.io/favicon.ico" width="48" height="48" alt="n8n" />
+<br>n8n
+</td>
+<td align="center" width="96">
 <img src="https://img.icons8.com/fluency/48/microsoft-365.png" width="48" height="48" alt="Microsoft 365" />
 <br>Microsoft 365
+</td>
+</tr>
+<!-- AI Tools -->
+<tr>
+<td align="center" width="96">
+<img src="https://www.heygen.com/favicon.ico" width="48" height="48" alt="HeyGen" />
+<br>HeyGen
+</td>
+<td align="center" width="96">
+<img src="https://elevenlabs.io/favicon.ico" width="48" height="48" alt="ElevenLabs" />
+<br>ElevenLabs
+</td>
+<td align="center" width="96">
+<img src="https://cdn.openai.com/common/images/favicon.ico" width="48" height="48" alt="ChatGPT" />
+<br>ChatGPT
+</td>
+<td align="center" width="96">
+<img src="https://www.anthropic.com/favicon.ico" width="48" height="48" alt="Claude AI" />
+<br>Claude AI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/slack-new.png" width="48" height="48" alt="Slack" />
+<br>Slack
 </td>
 </tr>
 </table>
