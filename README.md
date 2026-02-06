@@ -29,6 +29,10 @@
 <img src="https://img.icons8.com/color/48/canva.png" width="48" height="48" alt="Canva" />
 <br>Canva
 </td>
+<td align="center" width="96">
+<img src="https://sf16-sg.tiktokcdn.com/obj/eden-sg/pkuvn_nuhmhs/capcut_pc.ico" width="48" height="48" alt="CapCut" />
+<br>CapCut
+</td>
 </tr>
 <!-- Backend & Data -->
 <tr>
@@ -105,6 +109,14 @@
 <td align="center" width="96">
 <img src="https://www.anthropic.com/favicon.ico" width="48" height="48" alt="Claude AI" />
 <br>Claude AI
+</td>
+<td align="center" width="96">
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini AI" />
+<br>Gemini AI
+</td>
+<td align="center" width="96">
+<img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="48" height="48" alt="NotebookLM" />
+<br>NotebookLM
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
