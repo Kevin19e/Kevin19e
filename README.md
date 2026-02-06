@@ -30,7 +30,7 @@ v<img src="https://private-user-images.githubusercontent.com/216080411/546200412
 <br>Canva
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/capcut.png" width="48" height="48" alt="CapCut" />
+<img src="[https://img.icons8.com/color/48/capcut.png"](https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/ies/lvweb_os_monorepo/platformSSR/b8b3bb9b25621fd38dc0.png) width="48" height="48" alt="CapCut" />
 <br>CapCut
 </td>
 </tr>
