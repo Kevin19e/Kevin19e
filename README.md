@@ -1,7 +1,7 @@
 <img src="https://private-user-images.githubusercontent.com/216080411/546220121-6738c7b5-2ff7-40a1-9abc-ec3b80816b81.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAzODU4ODMsIm5iZiI6MTc3MDM4NTU4MywicGF0aCI6Ii8yMTYwODA0MTEvNTQ2MjIwMTIxLTY3MzhjN2I1LTJmZjctNDBhMS05YWJjLWVjM2I4MDgxNmI4MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwNlQxMzQ2MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YzRhZjk2ODk2OTQ0ODhmMzYxNzc0NzdjZWU4OWQ2ZWE0MTI2ZmI0NDMxMjYyMjYxYjYzZjk5MTEyYjk5YmU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-Bi63otlv0yxl1LpUyDceVweP3pwg7R_ULqTjClLIA8" width="80" height="120" style="border-radius: 50%; object-fit: cover;" align="center" alt="👋 Hi there! I'm Kevin" title="👋 Hi there! I'm Kevin"/>
 <div align="justify">
 
-align="center" alt="👋 Hi there! I'm Kevin" title="👋 Hi there! I'm Kevin"/>
+<align="center" alt="👋 Hi there! I'm Kevin" title="👋 Hi there! I'm Kevin"/>
 <div align="justify">
 <table>
 <!-- Frontend & Design -->
