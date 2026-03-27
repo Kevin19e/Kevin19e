@@ -10,7 +10,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Elezi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-elezi/)
-[![Live Project](https://img.shields.io/badge/🚀%20Live%20Project-addvanceo.eu-22c55e?style=for-the-badge)]
+
 
 </div>
 
