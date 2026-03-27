@@ -1,7 +1,35 @@
 <div align="center">
 
-<h1>👋 Hi there! I'm Kevin</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin+Elezi+%F0%9F%91%8B;AI+%26+Data+Student+in+Brussels;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+
+<br/>
+
+**AI & Data-focused student · Brussels, Belgium**  
+*Combining business thinking with technical execution to build practical digital solutions*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Elezi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-elezi/)
+[![Live Project](https://img.shields.io/badge/🚀%20Live%20Project-addvanceo.eu-22c55e?style=for-the-badge)]
+
 </div>
+
+---
+
+## 🧠 About Me
+
+I'm an AI & Data student who bridges the gap between technical depth and business value. I build tools that actually work in the real world — from AI voice assistants to data warehouses to ML prediction systems.
+
+- 🔭 Currently working on **AI-powered automation** and **multilingual voice assistants**
+- 📊 Passionate about turning raw data into clear, actionable insights
+- 💼 Background in marketing & e-commerce — I understand users, not just systems
+- 🌱 Always learning: currently deepening my expertise in **Generative AI** and **MLOps**
+- ⚡ Open to fulltime jobs, freelance work, and collaborative projects
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <div align="justify">
 <table>
 <!-- Frontend & Design -->
@@ -129,4 +157,47 @@
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎙️ AI Voice Assistant *(Live)*
+> Multilingual AI assistant integrated into a real website — voice & text interaction across multiple languages
+>
+> 🔗 **[addvanceo.eu](https://addvanceo.eu)**
+
+---
+
+### 🛍️ Adidas Sales Data Warehouse
+> SQL-based data warehouse architected for business analytics and reporting  
+> Covers ETL pipelines, star schema design, and BI-ready data modelling
+
+---
+
+### 🏨 Hotel Booking Cancellation Predictor
+> ML models trained to predict booking cancellations, supporting revenue management decisions  
+> Built with Python, scikit-learn, and feature engineering on real hospitality data
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issuer |
+|---|---|
+| CEO Certification | Business & Leadership |
+| Machine Learning Foundations | AWS |
+| Generative AI Foundations | AWS |
+| AI Fundamentals | IBM |
+| Data Analytics Essentials | Cisco |
+| SEO Certification | HubSpot |
+
+
+---
+
+<div align="center">
+
+*⭐ Always open to opportunities — let's build something meaningful together*
+
 </div>
