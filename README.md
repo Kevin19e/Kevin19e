@@ -7,7 +7,7 @@
 **AI & Data-focused student · Brussels, Belgium**  
 *Combining business thinking with technical execution to build practical digital solutions*
 
-<br/>
+<br align="center"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Elezi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-elezi/)
 
@@ -18,11 +18,11 @@
 
 ## 🧠 About Me
 
-I'm an AI & Data student who bridges the gap between technical depth and business value. I build tools that actually work in the real world — from AI voice assistants to data warehouses to ML prediction systems.
+I'm an AI & Data student who bridges the gap between technical depth and business value. I build tools that actually work in the real world from AI voice assistants to data warehouses to ML prediction systems.
 
 - 🔭 Currently working on **AI-powered automation** and **multilingual voice assistants**
 - 📊 Passionate about turning raw data into clear, actionable insights
-- 💼 Background in marketing & e-commerce — I understand users, not just systems
+- 💼 Background in marketing & e-commerce / I understand users, not just systems
 - 🌱 Always learning: currently deepening my expertise in **Generative AI** and **MLOps**
 - ⚡ Open to fulltime jobs, freelance work, and collaborative projects
 
@@ -198,6 +198,6 @@ I'm an AI & Data student who bridges the gap between technical depth and busines
 
 <div align="center">
 
-*⭐ Always open to opportunities — let's build something meaningful together*
+*⭐ Always open to opportunities >>> "Let's build something meaningful together"*
 
 </div>
