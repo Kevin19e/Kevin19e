@@ -163,6 +163,15 @@ I'm an AI & Data student who bridges the gap between technical depth and busines
 
 ## 🚀 Featured Projects
 
+### 📊 AI-Powered Superstore Performance Dashboard *(New)*
+> End-to-end BI dashboard that cleans raw retail data, computes 10 KPIs, visualizes trends, detects profitability risks, and generates executive insights — with optional Gemini AI summary
+>
+> `Python` `Streamlit` `Pandas` `Plotly` `Google Gemini`
+>
+> 🔗 **[View Repository](https://github.com/Kevin19e/AI-Powered-Superstore-Performance-Dashboard)**
+
+---
+
 ### 🎙️ AI Voice Assistant *(Live)*
 > Multilingual AI assistant integrated into a real website — voice & text interaction across multiple languages
 >
