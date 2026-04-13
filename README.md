@@ -172,6 +172,15 @@ I'm an AI & Data student who bridges the gap between technical depth and busines
 
 ---
 
+### 🤖 JobAssist AI *(New)*
+> AI-powered job application assistant — upload your CV, paste job descriptions, get fit scores, red flags, and auto-generated cover letters and recruiter messages
+>
+> `Python` `FastAPI` `Google Gemini` `Pydantic` `JavaScript`
+>
+> 🔗 **[View Repository](https://github.com/Kevin19e/JobAssist-AI)**
+
+---
+
 ### 🎙️ AI Voice Assistant *(Live)*
 > Multilingual AI assistant integrated into a real website — voice & text interaction across multiple languages
 >
