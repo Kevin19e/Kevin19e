@@ -177,7 +177,7 @@ I'm an AI & Data student who bridges the gap between technical depth and busines
 >
 > `Python` `FastAPI` `Google Gemini` `Pydantic` `JavaScript`
 >
-> 🔗 **[View Repository](https://github.com/Kevin19e/JobAssist-AI)**
+> 🔗 **[Live Demo](https://huggingface.co/spaces/onglezi/JobAssist-AI)** · 🔗 **[View Repository](https://github.com/Kevin19e/JobAssist-AI)**
 
 ---
 
