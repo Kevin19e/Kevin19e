@@ -163,7 +163,7 @@ I'm an AI & Data student who bridges the gap between technical depth and busines
 
 ## 🚀 Featured Projects
 
-### 📊 AI-Powered Superstore Performance Dashboard *(New)*
+### 📊 AI-Powered Superstore Performance Dashboard 
 > End-to-end BI dashboard that cleans raw retail data, computes 10 KPIs, visualizes trends, detects profitability risks, and generates executive insights — with optional Gemini AI summary
 >
 > `Python` `Streamlit` `Pandas` `Plotly` `Google Gemini`
