@@ -184,19 +184,23 @@ I'm an AI & Data student who bridges the gap between technical depth and busines
 ### 🎙️ AI Voice Assistant *(Live)*
 > Multilingual AI assistant integrated into a real website — voice & text interaction across multiple languages
 >
-> 🔗 **[addvanceo.eu](https://addvanceo.eu)**
+> 🔗 **[Live Demo](https://addvanceo.eu)** · 🔗 **[View Repository](https://github.com/Kevin19e/AI-voice-agent-live)**
 
 ---
 
 ### 🛍️ Adidas Sales Data Warehouse
 > SQL-based data warehouse architected for business analytics and reporting  
 > Covers ETL pipelines, star schema design, and BI-ready data modelling
+>
+> 🔗 **[View Repository](https://github.com/Kevin19e/adidas-sales-data-warehouse)**
 
 ---
 
 ### 🏨 Hotel Booking Cancellation Predictor
 > ML models trained to predict booking cancellations, supporting revenue management decisions  
 > Built with Python, scikit-learn, and feature engineering on real hospitality data
+>
+> 🔗 **[View Repository](https://github.com/Kevin19e/Booking-cancellations-analysis)**
 
 ---
 
