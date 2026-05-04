@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm an AI & Data student based in Brussels. Most of my work sits at the intersection of data engineering, machine learning, and automation — building things that are actually useful rather than just technically interesting.
+I'm an AI & Data student based in Brussels. Most of my work sits at the intersection of data engineering, machine learning, and automation building things that are actually useful rather than just technically interesting.
 
 I came into tech through marketing and e-commerce, which means I tend to think about what a system needs to do for the person using it before I think about how to build it. That background shapes how I approach everything from dashboard design to model evaluation.
 
