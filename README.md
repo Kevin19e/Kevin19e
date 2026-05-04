@@ -16,19 +16,17 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm an AI & Data student who bridges the gap between technical depth and business value. I build tools that actually work in the real world from AI voice assistants to data warehouses to ML prediction systems.
+I'm an AI & Data student based in Brussels. Most of my work sits at the intersection of data engineering, machine learning, and automation — building things that are actually useful rather than just technically interesting.
 
-- 🔭 Currently working on **AI-powered automation** and **multilingual voice assistants**
-- 📊 Passionate about turning raw data into clear, actionable insights
-- 💼 Background in marketing & e-commerce / I understand users, not just systems
-- 🌱 Always learning: currently deepening my expertise in **Generative AI** and **MLOps**
-- ⚡ Open to fulltime jobs, freelance work, and collaborative projects
+I came into tech through marketing and e-commerce, which means I tend to think about what a system needs to do for the person using it before I think about how to build it. That background shapes how I approach everything from dashboard design to model evaluation.
+
+Right now I'm focused on AI-powered automation, multilingual voice interfaces, and end-to-end data pipelines. I'm open to full-time roles, freelance work, and collaborative projects.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="justify">
 <table>
@@ -161,50 +159,55 @@ I'm an AI & Data student who bridges the gap between technical depth and busines
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 AI-Powered Superstore Performance Dashboard 
-> End-to-end BI dashboard that cleans raw retail data, computes 10 KPIs, visualizes trends, detects profitability risks, and generates executive insights — with optional Gemini AI summary
->
-> `Python` `Streamlit` `Pandas` `Plotly` `Google Gemini`
->
-> 🔗 **[View Repository](https://github.com/Kevin19e/AI-Powered-Superstore-Performance-Dashboard)**
+### AI-Powered Superstore Performance Dashboard
+End-to-end BI dashboard that cleans raw retail data, computes 10 KPIs, visualizes trends, detects profitability risks, and generates executive insights — with an optional Gemini AI summary layer.
 
----
+`Python` `Streamlit` `Pandas` `Plotly` `Google Gemini`
 
-### 🤖 JobAssist AI *(New)*
-> AI-powered job application assistant — upload your CV, paste job descriptions, get fit scores, red flags, and auto-generated cover letters and recruiter messages
->
-> `Python` `FastAPI` `Google Gemini` `Pydantic` `JavaScript`
->
-> 🔗 **[Live Demo](https://huggingface.co/spaces/onglezi/JobAssist-AI)** · 🔗 **[View Repository](https://github.com/Kevin19e/JobAssist-AI)**
+**[View Repository](https://github.com/Kevin19e/AI-Powered-Superstore-Performance-Dashboard)**
 
 ---
 
-### 🎙️ AI Voice Assistant *(Live)*
-> Multilingual AI assistant integrated into a real website — voice & text interaction across multiple languages
->
-> 🔗 **[Live Demo](https://addvanceo.eu)** · 🔗 **[View Repository](https://github.com/Kevin19e/AI-voice-agent-live)**
+### JobAssist AI
+AI job application assistant — upload your CV, paste a job description, get a fit score, red flags, and auto-generated cover letter and recruiter message.
+
+`Python` `FastAPI` `Google Gemini` `Pydantic` `JavaScript`
+
+**[Live Demo](https://huggingface.co/spaces/onglezi/JobAssist-AI)** · **[View Repository](https://github.com/Kevin19e/JobAssist-AI)**
 
 ---
 
-### 🛍️ Adidas Sales Data Warehouse
-> SQL-based data warehouse architected for business analytics and reporting  
-> Covers ETL pipelines, star schema design, and BI-ready data modelling
->
-> 🔗 **[View Repository](https://github.com/Kevin19e/adidas-sales-data-warehouse)**
+### AI Voice Assistant
+Multilingual AI assistant integrated into a live website — handles voice and text interaction across multiple languages.
+
+**[Live Demo](https://addvanceo.eu)** · **[View Repository](https://github.com/Kevin19e/AI-voice-agent-live)**
 
 ---
 
-### 🏨 Hotel Booking Cancellation Predictor
-> ML models trained to predict booking cancellations, supporting revenue management decisions  
-> Built with Python, scikit-learn, and feature engineering on real hospitality data
->
-> 🔗 **[View Repository](https://github.com/Kevin19e/Booking-cancellations-analysis)**
+### Adidas Sales Data Warehouse
+SQL-based data warehouse built for business analytics and reporting. Covers ETL pipelines, star schema design, and BI-ready data modelling.
+
+**[View Repository](https://github.com/Kevin19e/adidas-sales-data-warehouse)**
 
 ---
 
-## 🎓 Certifications
+### Hotel Booking Cancellation Predictor
+ML models trained to predict booking cancellations to support revenue management decisions. Built with Python and scikit-learn on real hospitality data.
+
+**[View Repository](https://github.com/Kevin19e/Booking-cancellations-analysis)**
+
+---
+
+### Beverage Sales Intelligence Dashboard
+Interactive BI dashboard built on 9M+ synthetic sales transactions across Germany (2021–2023). Includes live filters, animated KPIs, and a full Power BI layer with DAX measures and Power Query transforms.
+
+**[View Repository](https://github.com/Kevin19e/beverage-sales-dashboard)**
+
+---
+
+## Certifications
 
 | Certification | Issuer |
 |---|---|
@@ -215,11 +218,10 @@ I'm an AI & Data student who bridges the gap between technical depth and busines
 | Data Analytics Essentials | Cisco |
 | SEO Certification | HubSpot |
 
-
 ---
 
 <div align="center">
 
-*⭐ Always open to opportunities >>> "Let's build something meaningful together"*
+Always open to new opportunities — feel free to reach out.
 
 </div>
